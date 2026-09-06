@@ -3,7 +3,7 @@
 A combined, visual report walking BFDH morphology → surface/attachment energy →
 slip-plane screening → gamma-surface calculation for 30 molecular crystals.
 
-Live at: https://zfahim57.github.io/crystal-pipeline-report/
+Live at: https://zfahim57.github.io/BFDH-Slip-GAMMA/
 
 ## Contents
 
